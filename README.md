@@ -6,6 +6,8 @@ The following test scenarios are available on https://zenodo.org
 
 DOI: 10.5281/zenodo.16129
 
+https://zenodo.org/record/16129?ln=en#.VQq8ZOEl_Cs
+
 Creators:
 Alexander Raake, Claudia Schlegel
 
@@ -15,6 +17,8 @@ Please cite:
 #### 2) English Translations of 3-party Conversation Test scenarios for conferencing assessment
 
 DOI: 10.5281/zenodo.16131
+
+https://zenodo.org/record/16131?ln=en#.VQq9L-El_Cs
 
 Creators:
 Janto Skowronek, Alexander Raake, Katrin Hoeldtke, Benjamin Belmudez
@@ -26,6 +30,8 @@ Please cite:
 
 DOI: 10.5281/zenodo.16132
 
+https://zenodo.org/record/16132?ln=en#.VQq9UeEl_Cs
+
 Creators:
 Benjamin Belmudez, Alexander Raake, Janto Skowronek, Katrin Hoeldtke
 
@@ -35,6 +41,8 @@ Please cite:
 #### 4) 3RNT – 3-party Random Number Verification (Timed Version) Task
 
 DOI: 10.5281/zenodo.16133
+
+https://zenodo.org/record/16133?ln=en#.VQq9c-El_Cs
 
 Creators:
 Katrin Schoenenberg, Mathis Schmieder
@@ -46,6 +54,8 @@ Please cite:
 
 DOI: 10.5281/zenodo.16134
 
+https://zenodo.org/record/16134?ln=en#.VQq9luEl_Cs
+
 Creator:
 Janto Skowronek
 
@@ -55,6 +65,8 @@ Please cite:
 #### 6) 3SCT – 3-party Short Conversation Test scenarios for conferencing assessment (Version 02)
 
 DOI: 10.5281/zenodo.16135
+
+https://zenodo.org/record/16135?ln=en#.VQq9zuEl_Cs
 
 Creators:
 Janto Skowronek, Falk Schiffner
@@ -66,15 +78,19 @@ Please cite:
 
 DOI: 10.5281/zenodo.16136
 
+https://zenodo.org/record/16136?ln=en#.VQq9zuEl_Cs
+
 Creators: 
 Janto Skowronek, Falk Schiffner, Katrin Schoenenberg
 
 Please cite:
 [Schoenenberg2015]	Katrin Schoenenberg, “The Quality of Mediated-Conversations under Transmission Delay”, PhD thesis, Technische Universität Berlin, to be submitted in 2015.
 
-#### 8) 3SCT – 3-party Sequential Conversation Test scenarios for conferencing assessment
+#### 8) 3SeqCT – 3-party Sequential Conversation Test scenarios for conferencing assessment
 
 DOI: 10.5281/zenodo.16137
+
+https://zenodo.org/record/16137?ln=en#.VQq9zuEl_Cs
 
 Creators:
 Falk Schiffner, Janto Skowronek
@@ -85,6 +101,8 @@ Please cite:
 #### 9) xCT – Scalable Multiparty Conversation Test scenarios for conferencing assessment (Version 01)
 
 DOI: 10.5281/zenodo.16138
+
+https://zenodo.org/record/16138?ln=en#.VQq9zuEl_Cs
 
 Creator: 
 Janto Skowronek
