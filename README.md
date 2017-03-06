@@ -48,7 +48,7 @@ Creators:
 Katrin Schoenenberg, Mathis Schmieder
 
 Please cite:
-[Schoenenberg2015]	Katrin Schoenenberg, “The Quality of Mediated-Conversations under Transmission Delay”, PhD thesis, Technische Universität Berlin, to be submitted in 2015.
+[Schoenenberg2016]	Katrin Schoenenberg, “The Quality of Mediated-Conversations under Transmission Delay”, PhD thesis, Technische Universität Berlin, 2016.
 
 #### 5) 3SCT – 3-party Short Conversation Test scenarios for conferencing assessment (Version 01)
 
@@ -72,7 +72,7 @@ Creators:
 Janto Skowronek, Falk Schiffner
 
 Please cite:
-[Skowronek2015]	Janto Skowronek, “Quality of Experience of Multiparty Conferencing and Telemeeting Systems: Methods and Models for Assessment and Prediction”, PhD thesis, Technische Universität Berlin, to be submitted in 2015.
+[Skowronek2017]	Janto Skowronek, “Quality of Experience of Multiparty Conferencing and Telemeeting Systems - Methods and Models for Assessment and Prediction”, PhD thesis, Technische Universität Berlin, 2017.
 
 #### 7) 3SCT – 3-party Short Conversation Test scenarios for conferencing assessment (Version 03)
 
@@ -84,7 +84,7 @@ Creators:
 Janto Skowronek, Falk Schiffner, Katrin Schoenenberg
 
 Please cite:
-[Schoenenberg2015]	Katrin Schoenenberg, “The Quality of Mediated-Conversations under Transmission Delay”, PhD thesis, Technische Universität Berlin, to be submitted in 2015.
+[Schoenenberg2016]	Katrin Schoenenberg, “The Quality of Mediated-Conversations under Transmission Delay”, PhD thesis, Technische Universität Berlin, 2016.
 
 #### 8) 3SeqCT – 3-party Sequential Conversation Test scenarios for conferencing assessment
 
@@ -109,3 +109,27 @@ Janto Skowronek
 
 Please cite:
 [Skowronek2015] Janto Skowronek and Alexander Raake, “Assessment of Cognitive Load, Speech Communication Quality and Quality of Experience for spatial and non-spatial audio conferencing calls”, Speech Communication, Vol. 66, pp. 154-175, 2015.
+
+#### 10) 3SurvivalCT – 3-party Survival task Conversation Test scenarios for conferencing assessment
+
+DOI: 10.5281/zenodo.345837
+
+https://zenodo.org/record/345837#.WL00iXqnPMM
+
+Creators:
+Janto Skowronek, Maxim Spur
+
+Please cite:
+[Skowronek2017]	Janto Skowronek, “Quality of Experience of Multiparty Conferencing and Telemeeting Systems - Methods and Models for Assessment and Prediction”, PhD thesis, Technische Universität Berlin, 2017.
+
+#### 11) 3CNG – 3-party Celebrity Name Guessing task for conferencing assessment
+
+DOI: 10.5281/zenodo.345834
+
+https://zenodo.org/record/345834#.WL01inqnPMM
+
+Creators:
+Janto Skowronek, Katrin Schoenenberg
+
+Please cite:
+[Skowronek2017]	Janto Skowronek, “Quality of Experience of Multiparty Conferencing and Telemeeting Systems - Methods and Models for Assessment and Prediction”, PhD thesis, Technische Universität Berlin, 2017.
